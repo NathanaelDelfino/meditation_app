@@ -89,9 +89,16 @@ class DetailsScreen extends StatelessWidget {
                             SessionCard(title: 'Session 04'),
                             SessionCard(title: 'Session 05'),
                             SessionCard(title: 'Session 06'),
+                            SessionCard(title: 'Session 06'),
+                            SessionCard(title: 'Session 06'),
+                            SessionCard(title: 'Session 06'),
+                            SessionCard(title: 'Session 06'),
                           ],
                         ),
                       ),
+                    ),
+                    SizedBox(
+                      height: size.height * 0.04,
                     ),
                     Text(
                       'MEDITACAO',
